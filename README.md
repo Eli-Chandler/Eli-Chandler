@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Eli!
 
-<!--
-**Eli-Chandler/Eli-Chandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* University of Auckland Computer Science class of 2024
+* Creater and developer of [qc.photos](https://qc.photos)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                                                                         
+                                ,,                                       
+                              `7MM                 mm                    
+                                MM                 MM                    
+  ,dW"Yvd  ,p6"bo    `7MMpdMAo. MMpMMMb.  ,pW"Wq.mmMMmm ,pW"Wq.  ,pP"Ybd 
+ ,W'   MM 6M'  OO      MM   `Wb MM    MM 6W'   `Wb MM  6W'   `Wb 8I   `" 
+ 8M    MM 8M           MM    M8 MM    MM 8M     M8 MM  8M     M8 `YMMMa. 
+ YA.   MM YM.    , ,,  MM   ,AP MM    MM YA.   ,A9 MM  YA.   ,A9 L.   I8 
+  `MbmdMM  YMbmd'  db  MMbmmd'.JMML  JMML.`Ybmd9'  `Mbmo`Ybmd9'  M9mmmP' 
+       MM              MM                                                
+     .JMML.          .JMML.
+```
