@@ -11,7 +11,7 @@ I’m a software engineer with a strong focus on backend development and softwar
 - **DevOps** stuff
 
 ### ⚙️ Technologies I Like Using
-- **Languages**: Python, C#, TypeScript, Java(maybe a little rusty), SQL
+- **Languages**: Python, C#, TypeScript((i've only used react)), Java(maybe a little rusty), SQL
 - **Frameworks**: FastAPI, ASP.NET Web API, React, Flask, various ORMs
 - **Infra & Tooling**: Terraform, Docker, Kubernetes, AWS, GCP, Digital Ocean, Various CI/CD tools
 - **Testing**: Prefer integration testing but comfortable with mocking, unit tests and e2e tests
