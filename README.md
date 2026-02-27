@@ -6,6 +6,7 @@ I’m a software engineer with a strong focus on backend development and softwar
 - My most impressive project was Finds.ly, a platform for aggregating products, and quality control photos of said products from multiple Chinese e-commerce platforms, including Taobao, Weidian, and 1688, allowing international shoppers to purchase safely from Chinese
 e-commerce sites. Scaled from 0 to 950,000 monthly unique users and mid $xx,000 MRR in ~2 years. while being a full time university student.
   - Engineered backend to handle 360M+ monthly requests (63M+ API calls, 120 TB+ images) while keeping costs under $1k/month through intelligent caching, highly efficient services, and highly optimised cloud service usage
+  - Architected a high-throughput backend that ingests arbitrary product URLs and, in seconds, extracts and reconciles data from multiple unreliable/adversarial sources, processes hundreds of QC images (download → compress → re-upload to own storage), and serves normalised results via a hybrid system with a performance optimised monolithic core and distributed worker services.
   - Developed ML models for labelling product categories and utilised vector embeddings for semantic search of products
   - Automated CI/CD for REST API, Discord Bot, Reddit Bot, and image processor, cutting deployment time from hours to minutes with GitHub Actions, Helm, and Kubernetes.
   - Defined all infrastructure as code with Terraform for easy management, reproducibility, and tear-down.
